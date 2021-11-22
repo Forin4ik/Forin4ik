@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Forin4ik
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html coding
-- 💞️ I’m looking to collaborate on Sirzhik
-- 📫 How to reach me ...
